@@ -1,6 +1,6 @@
 # slicedearth
 
-I build privacy-conscious tools for domain intelligence, OSINT, and focused user experiences.
+I build practical software with an emphasis on reliable engineering, clear interfaces, and thoughtful user experiences.
 
 ## Featured work
 
@@ -23,10 +23,10 @@ A touch-friendly, seating-aware life counter built for a shared tabletop device.
 - Responsive two-to-six-player layouts
 - Accessible controls, local persistence, and live card-art integration
 
-## Engineering focus
+## Engineering approach
 
-- Secure network integrations and explicit provenance
-- Domain intelligence and threat detection
-- Defensive data normalization and bounded persistence
-- Accessible, responsive application design
-- Automated testing, CI, and deployment
+- Reliable, maintainable application architecture
+- Secure integrations and defensive data handling
+- Accessible, responsive interface design
+- TypeScript, Svelte, Node.js, and modern web tooling
+- Automated testing, continuous integration, and deployment
