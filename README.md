@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3><a href="https://github.com/slicedearth/whoisleuth">WHOISleuth</a></h3>
       <p>A domain-intelligence and brand-protection console combining WHOIS, RDAP, DNS, Certificate Transparency, web evidence, and analyst case workflows.</p>
       <p><code>TypeScript</code> <code>Svelte</code> <code>Node.js</code></p>
@@ -29,7 +29,12 @@
         <a href="https://github.com/slicedearth/whoisleuth/blob/main/docs/engineering-case-study.md">Case study</a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
       <h3><a href="https://github.com/slicedearth/forty-life">Forty Life</a></h3>
       <p>A touch-friendly, seating-aware life counter designed for a shared tabletop device.</p>
       <p><code>Svelte 5</code> <code>TypeScript</code> <code>Vite</code></p>
