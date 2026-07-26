@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://www.slicedearth.dev">
+    <img
+      src="https://raw.githubusercontent.com/slicedearth/portfolio/master/src/assets/brand/slicedearth-mark.svg"
+      alt=""
+      width="72"
+      height="72"
+    />
+  </a>
+</p>
+
 <h1 align="center">slicedearth</h1>
 
 <p align="center">
