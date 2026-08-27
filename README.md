@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.slicedearth.dev">
     <img
-      src="https://raw.githubusercontent.com/slicedearth/portfolio/master/src/assets/brand/slicedearth-mark.svg"
+      src="assets/slicedearth-mark.svg"
       alt=""
       width="72"
       height="72"
@@ -12,71 +12,42 @@
 <h1 align="center">slicedearth</h1>
 
 <p align="center">
-  <strong>Software developer building practical tools with clear interfaces, dependable data handling, and strong test coverage.</strong>
+  <strong>Software developer building practical tools for security, DNS, public data and the web.</strong>
 </p>
 
 <p align="center">
-  <samp>TypeScript &middot; Svelte &middot; Python &middot; Node.js &middot; Astro</samp>
+  <a href="https://www.slicedearth.dev">Portfolio</a>
+  &middot;
+  <a href="https://github.com/slicedearth?tab=repositories">Repositories</a>
 </p>
 
 ---
 
-## Selected projects
+## Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/slicedearth/whoisleuth">WHOISleuth</a></h3>
-      <p>A local-first domain intelligence and brand-protection console for reviewing registration, DNS, certificate, website, network, and brand evidence.</p>
-      <p><code>TypeScript</code> <code>Svelte</code> <code>Node.js</code></p>
-      <p>
-        <a href="https://whoisleuth.com">Live application</a>
-        &middot;
-        <a href="https://whoisleuth.com/demo">Demo</a>
-        &middot;
-        <a href="https://github.com/slicedearth/whoisleuth/blob/main/docs/engineering-case-study.md">Case study</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/slicedearth/controlcurrent">ControlCurrent</a></h3>
-      <p>A browser security-control compatibility planner built from attributed standards and compatibility data.</p>
-      <p><code>TypeScript</code> <code>Astro</code> <code>Public standards</code></p>
-      <p>
-        <a href="https://slicedearth.github.io/controlcurrent/">Live application</a>
-        &middot;
-        <a href="https://github.com/slicedearth/controlcurrent">Repository</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/slicedearth/breachgazette">Breach Gazette</a></h3>
-      <p>A public data site that connects and explains official breach-notification statistics, registers, and regulatory actions while preserving source-specific limits.</p>
-      <p><code>Python</code> <code>Astro</code> <code>Data engineering</code></p>
-      <p>
-        <a href="https://breachgazette.netlify.app/">Live site</a>
-        &middot;
-        <a href="https://github.com/slicedearth/breachgazette">Repository</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/slicedearth/forty-life">Forty Life</a></h3>
-      <p>A touch-friendly, seating-aware life counter for two to six tabletop players, designed for one shared device.</p>
-      <p><code>Svelte 5</code> <code>TypeScript</code> <code>PWA</code></p>
-      <p>
-        <a href="https://github.com/slicedearth/forty-life">Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
+### [WHOISleuth](https://github.com/slicedearth/whoisleuth)
 
-## How I build
+A local-first console for reviewing domain, DNS, certificate, website and network evidence while keeping sources and uncertainty visible.
 
-- **Reliable by design:** explicit states, bounded inputs, and maintainable architecture.
-- **Useful in practice:** responsive layouts, accessible controls, and clear explanations.
-- **Defensive with data:** validated boundaries, careful attribution, and documented limitations.
-- **Continuously verified:** automated tests, repeatable builds, and reviewed deployments.
+`TypeScript` · `Svelte` · `Node.js`
 
-<p align="center">
-  <a href="https://github.com/slicedearth?tab=repositories"><strong>View all repositories</strong></a>
-</p>
+[Live application](https://www.whoisleuth.com/) · [Demo](https://www.whoisleuth.com/demo) · [Case study](https://github.com/slicedearth/whoisleuth/blob/main/docs/engineering-case-study.md)
+
+### [ZoneSkein](https://github.com/slicedearth/zoneskein)
+
+A browser-first DNS workbench for exploring records, checking trust chains, reviewing mail policy and preparing DNS changes.
+
+`TypeScript` · `React` · `DNS`
+
+[Live workbench](https://www.zoneskein.com/) · [Source code](https://github.com/slicedearth/zoneskein)
+
+## More projects
+
+- **[Breach Gazette](https://github.com/slicedearth/breachgazette)** — Official breach statistics, notifications and regulatory records presented with their source limitations. [Live site](https://breachgazette.netlify.app/)
+- **[ControlCurrent](https://github.com/slicedearth/controlcurrent)** — Browser support information for security controls, drawn from standards and compatibility data. [Live application](https://slicedearth.github.io/controlcurrent/)
+- **[ContractDelta AU](https://github.com/slicedearth/contract-delta-au)** — Tracks changes in published Australian Government contract records. [Live site](https://slicedearth.github.io/contract-delta-au/)
+- **[Forty Life](https://github.com/slicedearth/forty-life)** — A touch-friendly life counter for two to six tabletop players sharing one device. [Live application](https://forty-life.netlify.app/)
+
+## Tools
+
+`TypeScript` · `Svelte` · `React` · `Python` · `Node.js` · `Astro` · `Playwright`
